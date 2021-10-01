@@ -27,6 +27,7 @@ class Priority:
 
 # if __name__ =="__main__":
 #
+#
 #     # Process id's
 #     proc = [[1, 10, 1],
 #             [2, 5, 0],
