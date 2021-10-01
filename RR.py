@@ -39,16 +39,4 @@ class RR:
 
         print("Average waiting time = %.5f "%(total_wt /n) )
         print("Average turn around time = %.5f "% (total_tat / n))
-# if __name__ =="__main__":
-#
-#     # Process id's
-#     proc = [1, 2, 3]
-#     n = 3
-#
-#     # Burst time of all processes
-#     burst_time = [10, 5, 8]
-#
-#     # Time quantum
-#     quantum = 2;
-#     findavgTime(proc, n, burst_time, quantum)
 
