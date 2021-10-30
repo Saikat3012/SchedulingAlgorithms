@@ -24,7 +24,7 @@ class Priority:
         proc = sorted(proc, key = lambda proc:proc[2],
                       reverse = True);
         self.findavgTime(proc, n)
-
+# hi i am changed here
 # if __name__ =="__main__":
 #
 #
